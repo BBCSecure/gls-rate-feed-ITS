@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
   "status": "verified",
-  "rate_percent": 35,
-  "valid_from": "2026-10-13",
+  "rate_percent": 34.5,
+  "valid_from": "2026-11-13",
   "validity_basis": "invoice_date",
-  "checked_at": "2026-11-12T01:04:21Z",
+  "checked_at": "2026-11-13T01:03:23Z",
   "source_url": "https://www.gls-pakete.de/geschaeftlich-versenden/aktuelles/aufpreis-diesel-und-energie"
 }
